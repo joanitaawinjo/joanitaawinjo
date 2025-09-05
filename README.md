@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-
-**joanitaawinjo/joanitaawinjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Joanita, an aspiring software engineer
 
 - 🔭 I’m currently working on a project on fruit fly infestation of mangoes
 - 🌱 I’m currently learning software engineering 
